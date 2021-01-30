@@ -9,9 +9,10 @@ Fala Devs, beleza? 🤘
 Objetivo:
 <ul><li>
 	Melhorar minhas habilidades em CSS3 através da realização de projetos</li>
-	<li>
+<li>
 	Aprofundar meus conhecimentos em CSS3</li>
-	</li></ul>
+</ul>
+	
 Regras gerais:
 <ul><li>
 	Realizar um projeto por dia</li>
