@@ -35,3 +35,4 @@ Regras gerais:
 	</li>
 	</ul>
 <hr>
+[<img src="https://gifs.com/gif/midia-social-leds-css-VA4Z3B" width="50%">](https://gifs.com/gif/midia-social-leds-css-VA4Z3B<VIDEO ID>)
