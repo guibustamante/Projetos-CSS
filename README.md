@@ -24,6 +24,7 @@ Regras gerais:
 <ul><li><a href="https://www.youtube.com/channel/UCk7xIEmd3MeyhIu2StLX5yA">
 	   CodingNepal</li></a>
 	   <li><a href="https://www.youtube.com/c/OnlineTutorials4Designers/videos">Online Tutorials</li></a>
+	   </ul>
 	<hr>
 
 <ul>
