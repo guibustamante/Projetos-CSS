@@ -35,4 +35,8 @@ Regras gerais:
 	</li>
 	</ul>
 <hr>
-![Alt Text](https://j.gifs.com/VA4Z3B.gif)
+<ul><li>
+	1ºDia - Ícone das minhas mídias sociais com fundo em led
+	</li>
+</ul>
+<img src="https://j.gifs.com/VA4Z3B.gif" width="1000" height="388" />
