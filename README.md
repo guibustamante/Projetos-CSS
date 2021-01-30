@@ -35,7 +35,3 @@ Regras gerais:
 	</li>
 	</ul>
 <hr>
-<object width="425" height="350">
-<param name="Dia1" value="https://gifs.com/gif/midia-social-leds-css-VA4Z3B" />
-<embed src="https://gifs.com/gif/midia-social-leds-css-VA4Z3B" type="application/x-shockwave-flash" width="425" height="350" />
-</object>
