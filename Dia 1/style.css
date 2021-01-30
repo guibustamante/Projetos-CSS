@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    background: #262626;
+}
+
+ul{
+    display: flex;
+}
+
+a:hover, a:visited, a:focus, a:active{ text-decoration: none; color: inherit; } /*serve para tirar o efeito de link*/
+
+ul li {
+    position: relative;
+    display: block;
+    color: #666;
+    font-size: 30px;
+    height: 60px;
+    width: 60px;
+    background: #171515;
+    line-height: 60px;
+    border-radius: 50%;
+    margin: 0 55px;
+    cursor: pointer;
+}
+
+ul li::before{
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    /* background:#d35400; */
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    z-index: -1;
+    transform: scale(0.9);
+    transition: .5s;
+}
+
+ul li:nth-child(1):before{
+    background: #3b5998;
+}
+
+
+ul li:hover:before{
+    filter: blur(3px);
+    transform: scale(1.2);
+    /* box-shadow: 0 0 15px #d35400; */
+}
+
+ul li:nth-child(1):hover:before{
+    box-shadow: 0 0 15px #3b5998;
+}
+
+ul li:nth-child(1):hover{
+    color:  #3b5998;
+    box-shadow: 0 0 15px  #3b5998;
+    text-shadow: 0 0 15px  #3b5998;
+}
+
+ul li:nth-child(2):before{
+    background: linear-gradient( to top, #e18451, #993399);
+}
+
+ul li:nth-child(2):hover{
+    color: #e18451;
+    box-shadow: 0 0 15px  #e18451;
+    text-shadow: 0 0 15px  #993399;
+}
+
+ul li:nth-child(3):before{
+    background: #007bb6;
+}
+
+ul li:nth-child(3):hover{
+    color: #007bb6;
+    box-shadow: 0 0 15px #007bb6;
+    text-shadow: 0 0 15px #007bb6;
+}
