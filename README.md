@@ -17,7 +17,7 @@ Regras gerais
 • O projeto deve ser concluído até 23:59
 
 <ul>
-	<li><a href="">
+	<li><a href="https://github.com/guibustamante/30Dias-CSS/tree/master/Dia%201">
 		1º Dia - Ícone das minhas mídias sociais com fundo em led</a>
 	</li>
 	</ul>
