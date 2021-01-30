@@ -18,6 +18,8 @@ Regras gerais:
 	Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS</li>
 <li>
 	O projeto deve ser concluído até 23:59</li>
+	</ul>
+	<hr>
 
 <ul>
 	<li><a href="https://github.com/guibustamante/30Dias-CSS/tree/master/Dia%201">
