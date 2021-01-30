@@ -11,10 +11,13 @@ Objetivo:
 Melhorar minhas habilidades em CSS3 através da realização de projetos
 Aprofundar meus conhecimentos em CSS3
 	</li></ul>
-Regras gerais
-• Realizar um projeto por dia
-• Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
-• O projeto deve ser concluído até 23:59
+Regras gerais:
+<ul><li>
+	Realizar um projeto por dia</li>
+<li>
+	Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS</li>
+<li>
+	O projeto deve ser concluído até 23:59</li>
 
 <ul>
 	<li><a href="https://github.com/guibustamante/30Dias-CSS/tree/master/Dia%201">
