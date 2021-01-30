@@ -19,6 +19,10 @@ Regras gerais:
 <li>
 	O projeto deve ser concluído até 23:59</li>
 	</ul>
+
+<p>Canais do Youtube que eu segui sobre CSS
+<ul><li><a href="https://www.youtube.com/channel/UCk7xIEmd3MeyhIu2StLX5yA"
+	   CodingNepal</li></a>
 	<hr>
 
 <ul>
