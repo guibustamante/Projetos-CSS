@@ -21,7 +21,7 @@ Regras gerais:
 	</ul>
 
 <p>Canais do Youtube que eu segui sobre CSS
-<ul><li><a href="https://www.youtube.com/channel/UCk7xIEmd3MeyhIu2StLX5yA"
+<ul><li><a href="https://www.youtube.com/channel/UCk7xIEmd3MeyhIu2StLX5yA">
 	   CodingNepal</li></a>
 	<hr>
 
