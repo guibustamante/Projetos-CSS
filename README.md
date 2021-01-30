@@ -35,4 +35,4 @@ Regras gerais:
 	</li>
 	</ul>
 <hr>
-[<img src="https://gifs.com/gif/midia-social-leds-css-VA4Z3B" width="50%">](https://gifs.com/gif/midia-social-leds-css-VA4Z3B<VIDEO ID>)
+<div style='position:relative;padding-bottom:38.800%;'><iframe src="//gifs.com/embed/midia-social-leds-css-VA4Z3B" frameborder="0" scrolling="no" width="1000" height="388" style="backface-visibility: hidden; transform: scale(1); position: absolute; height: 100%; width: 100%;"></iframe></div>
