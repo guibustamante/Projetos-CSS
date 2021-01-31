@@ -33,18 +33,18 @@ Regras gerais:
 	<li><a href="https://github.com/guibustamante/30Dias-CSS/tree/master/Dia%201">
 		1º Dia - Ícone das minhas mídias sociais com fundo em led</a>
 	</li>
+	<li><a href="https://github.com/guibustamante/30Dias-CSS/tree/master/Dia%202">
+		2º Dia - Check-Box</a>
 	</ul>
 <hr>
 <ul><li>
 	1ºDia - Ícone das minhas mídias sociais com fundo em led
-	
-	<img src="https://j.gifs.com/VA4Z3B.gif" width="1000" height="388" />
+	<img src="https://j.gifs.com/VA4Z3B.gif" width="1000" height="388"/>
 	</li>
-	
 	<li>
 	2º Dia - Check-Box
-	
-	<img src="https://j.gifs.com/p8NKLp.gif" width="680" height"600" />
+		<br>
+	<img src="https://j.gifs.com/p8NKLp.gif" width="680" height"600"/>
 	</li>
 </ul>
 
