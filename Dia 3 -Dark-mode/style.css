@@ -1,0 +1,67 @@
+* {
+  margin: 0; /*deixa tudo sem margem */
+  padding: 0; /*deixa um espaçamento interno, ou seja, vai dar um espaço do topo, esquerda e da direita de 0 px*/
+  box-sizing: border-box; /*As propriedades de largura (width) e de altura (height) incluem o tamanho padding size e a propriedade border, mas não incluem a propriedade margin.*/
+
+}
+
+input[type="checkbox"] {
+  position: absolute;
+  z-index: 1; /*A propriedade z-index especifica a ordem-z de um elemento e de seus herdeiros. Quando os elementos sobrepõem, a z-ordem determina qual elemento cobre o outro. OU SEJA, SE TIRAR ELE, O ELEMENTO SOME*/
+  left: 15%;
+  border-radius: 100%;
+  top: 40px;
+  cursor: pointer;
+  -webkit-appearance: none;
+}
+
+input[type="checkbox"]:before {
+  content: "Dark";
+  position: absolute;
+  border-radius: 50px;
+  color: #fff;
+  background: #000;
+  padding: 10px 20px;
+}
+
+input[type="checkbox"]:checked:before {
+  content: "Light";
+  position: absolute;
+  color: #000;
+  background: #fff;
+  padding: 10px 20px;
+}
+
+input[type="checkbox"]:checked ~ * { /*O sinal do "til" O elemento de combinação irmão em geral consiste de dois seletores simples separados por um sinal de "til" (~). Este seletor casa ocorrências do segundo elemento seletor simples que sejam precedidos pelo primeiro elemento seletor simples.*/
+  filter: invert();
+}
+
+section {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #fff;
+  width: 100%;
+  height: 100%;
+  padding: 80px 100px;
+}
+
+p {
+  position: absolute;
+  font-size: 40px;
+  top: 70px;
+  left: 24.5%;
+}
+
+.home {
+  position: absolute;
+  max-width: 50px;
+  left: 22%;
+  top: 140px;
+}
+.tree {
+  position: absolute;
+  max-width: 50px;
+  left: 35%;
+  top: 140px;
+}
