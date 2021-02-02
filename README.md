@@ -35,6 +35,9 @@ Regras gerais:
 	</li>
 	<li><a href="https://github.com/guibustamante/30Dias-CSS/tree/master/Dia%202">
 		2º Dia - Check-Box</a>
+	<li><a href="https://github.com/guibustamante/30Dias-CSS/tree/master/Dia%203%20-Dark-mode">
+	3º Dia - Dark/Light Mode</a>
+	</li>
 	</ul>
 <hr>
 <ul><li>
@@ -44,7 +47,11 @@ Regras gerais:
 	<li>
 	2º Dia - Check-Box
 		<br>
-	<img src="https://j.gifs.com/p8NKLp.gif" width="680" height"600"/>
+	<img src="https://j.gifs.com/p8NKLp.gif" width="680" height="600"/>
 	</li>
+	<li>
+	3º Dia - Dark/Light Mode
+		<br>
+	<img src= "https://j.gifs.com/6XnjK9.gif" width="800" height="300"/>
 </ul>
 
